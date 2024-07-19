@@ -16,7 +16,7 @@ launch_year =
 
 #Step 3: Fill in the variable names between the strings provided to create a mission brief. Make sure to use a print statement to view the mission brief.
 
-mission_brief = print(         + "will commence in " +         + " lead by " +         )
+mission_brief = print(f"{} will commence in {} lead by {}")
 
 
 #Step 4: The project gets delayed by 3 years because *beaucracy*. Go back to step 2 and add 3 to the launch year. Run the code to check if it works.
